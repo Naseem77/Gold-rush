@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.matrix {
+  width: 80%;
+  height: 40%;
+  margin: auto;
+  background-color: rgb(197, 200, 202);
+}
+.matrix-cell {
+  width: 200px;
+  height: 110px;
+  text-align: center;
+  align-content: center;
+
+     
+}
+#gold-title{
+  text-align: center;
+  padding: 10px;
+  color:darkblue;
+}
+
+table,td {
+  border: 1px solid rgb(9, 9, 9);
+
+}
+td{
+  padding-top: 40px;
+  font-size: 30px;
+  
+}
+#player1, #player2{
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+}
